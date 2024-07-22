@@ -1,6 +1,6 @@
 # MagicFace
 This is a model based on blazeface which is trained by Google’s open source WIDER FACE dataset.
-note: the model uses aidlite_gpu to accelerate
+<br/> note: the model uses aidlite_gpu to accelerate
 ## testface.py
 Detect whether a face appears in the picture
 ## fatigue_demo.py
