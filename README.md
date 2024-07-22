@@ -1,5 +1,6 @@
 # MagicFace
-This is a model based on blazeface which is trained by Google’s open source WIDER FACE dataset.
+This is a model based on blazeface which is trained by Google’s open source WIDER FACE dataset.<br/>
+This model can detect facial features through OpenCV 
 <br/> note: the model uses aidlite_gpu to accelerate
 ## testface.py
 Detect whether a face appears in the picture
